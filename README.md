@@ -1,1 +1,1 @@
-# html_odev2
+# Patika Html eğitiminde ikinci ödevim.
